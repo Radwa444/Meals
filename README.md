@@ -30,7 +30,7 @@ The app follows **MVVM** design pattern combined with **Clean Architecture** to 
 - **StateFlow** → Used for reactive UI updates and holding data from API.
 - **Retrofit** → Networking library to fetch data from API.
 - **Hilt** → Dependency Injection for clean and testable code.
-- **Android Jetpack** → Modern Android components for robust app development.
+
 
 ---
 
